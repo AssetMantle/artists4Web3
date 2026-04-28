@@ -1031,7 +1031,6 @@ export async function getStaticProps() {
             title: "Mantle Products",
             subData: [
               "MantlePlace",
-              "MantleBuilder",
               "MantleWallet",
               "MantleExplorer",
               "+2 More",
@@ -1095,7 +1094,6 @@ export async function getStaticProps() {
           title: "Mantle Products",
           subData: [
             "MantlePlace",
-            "MantleBuilder",
             "MantleWallet",
             "MantleExplorer",
             "+2 More",
@@ -1417,14 +1415,6 @@ export async function getStaticProps() {
       {
         title: "What is MantlePlace?",
         info: "MantlePlace is the native NFT marketplace if AssetMantle.All creators on MantlePlace are verified for authenticity in an effort to minimize instances of frauds and rug pulls.",
-      },
-      {
-        link: {
-          text: "here",
-          href: "https://docs.assetmantle.one/MantleBuilder_Overview",
-        },
-        title: "What is MantleBuilder?",
-        info: "MantleBuilder is the revolutionary no-code NFT marketplace builder from AssetMantle. It's simple drag-and-drop interface empowers creators and brands to build their robust and custom-branded NFT storefronts in the Cosmos ecosystem. Read more about MantleBuilder",
       },
       {
         title: "What is IBC Protocol?",
@@ -1795,14 +1785,6 @@ export async function getStaticProps() {
         dimensions: { width: "153px", height: "27px" },
         description:
           "A decentralized, no-code NFT marketplace bringing trading features to creators with an easy to use interface",
-      },
-      {
-        icon: "/CollabsSection/mantlebuilder.svg",
-        name: "MantleBuilder",
-        filters: ["Products", "AssetMantle"],
-        dimensions: { width: "168.75px", height: "27px" },
-        description:
-          "No-code, customizable NFT marketplace builder helping creators build their own custom-branded NFT storefronts",
       },
       {
         icon: "/CollabsSection/mantlewallet.svg",

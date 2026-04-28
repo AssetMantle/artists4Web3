@@ -74,13 +74,6 @@ const FooterConfigData = {
         },
       },
       {
-        title: "MantleBuilder",
-        link: {
-          text: "MantleBuilder",
-          href: "https://docs.assetmantle.one/MantleBuilder_Overview/",
-        },
-      },
-      {
         title: "MantleWallet",
         link: {
           text: "MantleWallet",

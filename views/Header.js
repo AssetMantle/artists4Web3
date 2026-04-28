@@ -24,12 +24,6 @@ const itemList = [
             url: "https://marketplace.assetmantle.one/",
           },
           {
-            menuName: "MantleBuilder",
-            isExternalURL: true,
-            isNestMenuCollapsed: true,
-            url: "https://docs.assetmantle.one/MantleBuilder_Overview/",
-          },
-          {
             menuName: "MantleWallet",
             isExternalURL: true,
             isNestMenuCollapsed: true,
